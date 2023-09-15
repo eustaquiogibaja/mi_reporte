@@ -1,6 +1,6 @@
 // Creación de Script para reporte de indicadores
 <INICIO>
-1. obtener datos de ventas
+1. obtener datos de ventas de los productos del segmetnto mujer
 2. realizar el cruce de los datos
 3. crear indicadores.
 <INICIO>
