@@ -4,3 +4,4 @@
 2. realizar el cruce de los datos
 3. crear indicadores.
 <INICIO>
+altas
